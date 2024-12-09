@@ -40,7 +40,7 @@ Example: delete Oxford
 4. Search City
 Retrieves information about a city.
    ```bash
-search <city_name>
+   search <city_name>
 
 Example: search Oxford
 
@@ -48,7 +48,7 @@ Example: search Oxford
 5. Display City Attribute
 Displays a specific attribute of a city.
    ```bash
-display <field> <city_name>
+   display <field> <city_name>
 
 Example: display population Oxford
 
@@ -56,7 +56,7 @@ Example: display population Oxford
 6. Calculate Distance
 Calculates the geographical distance between two cities.
    ```bash
-distance <city_name1> <city_name2>
+   distance <city_name1> <city_name2>
 
 Example: distance London Paris
 
@@ -64,7 +64,7 @@ Example: distance London Paris
 7. Save Data
 Saves all city data to a file for persistence.
    ```bash
-save
+   save
 
 
 8. Quit Program
