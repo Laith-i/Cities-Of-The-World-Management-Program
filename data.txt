@@ -1,0 +1,64 @@
+"dubai","uae",3683000,2023,"mohammad bin rashid al maktoum","office of the ruler, al rigga","international trade hub",25.277,55.2962
+"new york","usa",8419000,2023,"eric adams","new york city hall, manhattan","global financial center",40.7128,-74.006
+"tokyo","japan",13929000,2021,"yuichiro tamaki","tokyo metropolitan government building, shinjuku","major cultural and economic center",35.6895,139.692
+"london","uk",8982000,2021,"sadiq khan","london city hall, bankside","historic and financial capital",51.5074,-0.1278
+"paris","france",2148000,2023,"anne hidalgo","hôtel de ville, paris","city of love and art",48.8566,2.3522
+"shanghai","china",24180000,2021,"huang yan","shanghai municipal government, zhoupu road","major global financial hub",31.2304,121.474
+"los angeles","usa",3980400,2023,"karen bass","los angeles city hall, downtown","entertainment industry center",34.0522,-118.244
+"singapore","singapore",5703600,2022,"heng swee keat","sindian street, orchard road","global financial center",1.3521,103.82
+"berlin","germany",3769000,2020,"kai wegner","rotes rathaus, berlin","cultural and political center",52.52,13.405
+"toronto","canada",2930000,2021,"john tory","toronto city hall, queen street","major north american city",43.6532,-79.3832
+"san francisco","usa",883305,2023,"london breed","san francisco city hall, market street","tech and cultural hub",37.7749,-122.419
+"mumbai","india",12442373,2019,"ghanshyam talwar","brihanmumbai municipal corporation, fort","economic powerhouse",19.076,72.8777
+"sydney","australia",5312163,2022,"demetra greece","sydney town hall, george street","iconic harbor city",-33.8688,151.209
+"moscow","russia",12506468,2021,"sergey sobyanin","moscow city hall, st. vazha","political and historical center",55.7558,37.6173
+"rio de janeiro","brazil",6748000,2020,"eduardo paes","municipal palace, rio de janeiro","famous for its beaches and carnival",-22.9068,-43.1729
+"barcelona","spain",1620343,2023,"ada colau","ajuntament de barcelona, carrer de la marina","cultural and architectural gem",41.3851,2.1734
+"istanbul","turkey",15462452,2018,"ekrem imamoglu","belediye headquarters, istiklal street","transcontinental city",41.0082,28.9784
+"chicago","usa",2716000,2022,"lori lightfoot","chicago city hall, michigan avenue","major financial and cultural center",41.8781,-87.6298
+"seoul","south korea",9776000,2023,"oh se-hoon","seoul city hall, sejongno","technological and cultural hub",37.5665,126.978
+"mexico city","mexico",9209944,2021,"claudia sheinbaum","palacio de gobierno, zocalo","political and economic center",19.4326,-99.1332
+"bangkok","thailand",8281000,2020,"aswin kwanmuang","bangkok city hall, siam road","cultural and economic hub",13.7563,100.502
+"johannesburg","south africa",957441,2019,"mpho phalatse","johannesburg city hall, braamfontein","economic powerhouse of africa",26.2041,28.0473
+"buenos aires","argentina",2891082,2022,"horacio rodríguez larreta","plaza de mayo, buenos aires","cultural and political center",34.6037,-58.3816
+"lagos","nigeria",14368000,2021,"oluwarotimi akeredolu","lagos city hall, victoria island","economic hub of nigeria",6.5244,3.3792
+"rome","italy",2873000,2023,"roberto gualtieri","rome city hall, corso d'italia","historic capital of the roman empire",41.9028,12.4964
+"beijing","china",21540000,2020,"chen jining","beijing municipal government, jianguomenwai","political and cultural capital",39.9042,116.407
+"são paulo","brazil",12330000,2019,"fernando haddad","são paulo city hall, avenida paulista","largest city in brazil",23.5505,-46.6333
+"amsterdam","netherlands",872680,2022,"femke halsema","amsterdam city hall, dam square","cultural and financial hub",52.3676,4.9041
+"delhi","india",19800000,2023,"arvind kejriwal","delhi government house, rafi marg","capital territory of india",28.7041,77.1025
+"vienna","austria",1900000,2021,"michael ludwig","vienna city hall, rechnitzgasse","cultural and political center",48.2082,16.3738
+"casablanca","morocco",3359818,2018,"noureddine ould saleck","casablanca city hall, anfa","economic hub of morocco",33.5731,-7.5898
+"tehran","iran",8846782,2020,"alireza zakani","tehran municipality, vazirabad square","political and economic center",35.6892,51.389
+"amman","jordan",4230000,2022,"basim al-mansouri","amman city hall, abdullah street","capital and largest city of jordan",31.9454,35.9284
+"riyadh","saudi arabia",7273000,2021,"balqees bint alkhalifa","riyadh city hall, al murabba","capital and largest city of saudi arabia",24.7136,46.6753
+"erbil","iraq",1800000,2019,"khalid al-ansari","erbil city hall, al-qadisiyah","capital of the kurdistan region",36.1911,43.1703
+"jeddah","saudi arabia",3869000,2020,"talal al-hamar","jeddah city hall, king fahd road","major port and commercial hub",21.4858,39.1925
+"abu dhabi","uae",1490000,2022,"shamma bint abdulaziz","abu dhabi city hall, sheikh khalifa street","capital of the uae and economic center",24.4539,54.3773
+"doha","qatar",2780000,2021,"maham al-thani","doha city hall, al rayyan","capital of qatar and cultural hub",25.2854,51.531
+"beirut","lebanon",2147000,2022,"ali slosky","beirut city hall, hamra street","capital and largest city of lebanon",33.8938,35.5018
+"kuwait city","kuwait",4200000,2020,"nasser al-mohammed al-sabah","kuwait city hall, al masmak","capital and economic center of kuwait",29.3759,47.9774
+"muscat","oman",1166000,2019,"mohammed ben khalifa al-harthy","muscat city hall, al qurm","capital and largest city of oman",23.5859,58.4059
+"manama","bahrain",1570000,2021,"shaikh khalifa bin ali al-khalifa","manama city hall, suadi street","capital and commercial hub of bahrain",26.2285,50.5861
+"oxford","uk",154326,2021,"gayle greaves","oxford city council, quinn street","historic university city",51.752,-1.2577
+"oxford","usa",16888,2020,"laura poitras","oxford city hall, main street","college town",33.6385,-83.4421
+"manchester","uk",553230,2021,"steven george","manchester city hall, exchange square","industrial and cultural hub",53.4808,-2.2426
+"belo horizonte","brazil",2521564,2020,"celio farias","belo horizonte city hall, avenida tiradentes","economic and cultural center",-19.9167,-43.9345
+"bogota","colombia",7743955,2018,"claudia sheinbaum","bogota city hall, avenida de las americas","political and economic center",4.711,-74.0721
+"shenzhen","china",125283000,2023,"zhao yan","shenzhen city hall, shennan road","technology and manufacturing hub",22.5431,114.058
+"honolulu","usa",345064,2021,"loren mcclain","honolulu city hall, alakea street","tourism and cultural center",21.3069,-157.858
+"quito","ecuador",1810000,2019,"jose luis acosta","quito city hall, jardin botanico","historic and cultural capital",-0.1807,-78.4678
+"cairo","egypt",20000000,2020,"mohamed el shaer","cairo city hall, al mehwar","historical and cultural center",30.0444,31.2357
+"guangzhou","china",1490440,2018,"wang weijun","guangzhou city hall, tianhe district","commercial and transportation hub",23.1291,113.264
+"new delhi","india",21800000,2022,"arvind kejriwal","new delhi city hall, rajpath","political and cultural capital",28.6139,77.209
+"prague","czech republic",1309000,2021,"zdeněk hlavatý","prague city hall, wenceslas square","historical and cultural center",50.0755,14.4378
+"guadalajara","mexico",1495182,2019,"juan manuel gallardo","guadalajara city hall, independiente street","cultural and economic hub",20.6597,-103.35
+"cape town","south africa",433688,2023,"ashraf barbary","cape town city hall, main street","tourism and cultural center",-33.9249,18.4241
+"nairobi","kenya",4397073,2020,"john kiraita","nairobi city hall, kenyatta avenue","economic and cultural hub",-1.2921,36.8219
+"copenhagen","denmark",794128,2022,"mette fredriksen","copenhagen city hall, ryger boulevarden","cultural and economic center",55.6761,12.5683
+"hamburg","germany",1841179,2018,"dr. peter kortmann","hamburg city hall, rathausmarkt","port and cultural hub",53.5511,9.9937
+"budapest","hungary",1752286,2019,"gergely gulyás","budapest city hall, kossuth square","historical and cultural center",47.4979,19.0402
+"athens","greece",664046,2021,"kostas bakoyannis","athens city hall, plaka","historical and cultural capital",37.9838,23.7275
+"stockholm","sweden",975551,2023,"anna brundin","stockholm city hall, ostermalm","cultural and economic center",59.3293,18.0686
+"helsinki","finland",656229,2022,"sanna marin","helsinki city hall, eteläranta","cultural and political center",60.1699,24.9384
+"zurich","switzerland",434008,2020,"corine barry","zurich city hall, stadelhofen","financial and cultural hub",47.3769,8.5417
