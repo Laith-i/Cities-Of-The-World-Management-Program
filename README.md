@@ -66,7 +66,6 @@ Saves all city data to a file for persistence.
    ```bash
    save
 
-
 8. Quit Program
 Saves data and exits the program.
    ```bash
