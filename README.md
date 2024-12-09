@@ -26,31 +26,31 @@ Modifies specified details of a city.
    ```bash
    modify <city_name>, <country> <attribute>
    
-Example: modify Oxford, UK population
+Example: modify Oxford UK population
 
 
 3. Delete City
 Removes a city from the database.
    ```bash
-   delete <city_name>
+   delete <city_name> <city_region>
    
-Example: delete Oxford
+Example: delete Oxford UK
 
 
 4. Search City
-Retrieves information about a city.
+Retrieves information about a Certain city.
    ```bash
-   search <city_name>
+   search <city_name> <city_region>
 
-Example: search Oxford
+Example: search Oxford UK
 
 
 5. Display City Attribute
 Displays a specific attribute of a city.
    ```bash
-   display <field> <city_name>
+   display <city_name> <city_region> <field> 
 
-Example: display population Oxford
+Example: display Oxford UK population
 
 6. Sort Cities:
 Sorts the list of cities based on the specified attribute.
@@ -82,13 +82,12 @@ Displays statistical summaries of the cities, such as:
 9. Calculate Distance
 Calculates the geographical distance between two cities.
    ```bash
-   distance <city_name1> <city_name2>
+   distance <city_name1> <city_region1> <city_name2> <city_region2>
 
-Example: distance London Paris
+Example: distance London UK Paris France
 
 
 10. Save Data
 Saves all city data to a file for persistence.
    ```bash
    save
-
