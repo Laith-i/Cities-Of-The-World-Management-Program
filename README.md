@@ -92,12 +92,3 @@ Saves all city data to a file for persistence.
    ```bash
    save
 
-11. Help Menu
-Displays the help menu which shows all the available functions
-   ```bash
-   help 
-
-12. Quit Program
-Saves data and exits the program.
-   ```bash
-   quit
